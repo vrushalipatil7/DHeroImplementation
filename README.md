@@ -1,1 +1,0 @@
-# DHeroImplementation
